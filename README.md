@@ -6,7 +6,7 @@ Repository page: https://github.com/JamesSigler/hw1.35.Sigler/
 
 
 
-![Original Interface](https://imgur.com/X09iIa5)
+![Original Interface](https://i.imgur.com/X09iIa5.jpg)
 
 
 ![Original Interface gif](https://media.giphy.com/media/cKc9OKrsUHYWIT0jEF/giphy.gif)

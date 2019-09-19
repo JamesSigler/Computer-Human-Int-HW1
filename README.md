@@ -4,7 +4,7 @@ Presentation Page: https://jamessigler.github.io/hw1.35.Sigler/
 
 Repository page: https://github.com/JamesSigler/hw1.35.Sigler/
 
-# C:
+# Part C:
 
 ![Original Interface](https://i.imgur.com/X09iIa5.jpg)
 
@@ -16,6 +16,13 @@ button does not line up with the other which makes it slightly harder to look at
 
 Lights also do not stay on when they are pressed so it is hard to tell which floors are selected.
 
-There is no audio functionallity to this elevator.
+There is no audio functionallity to this elevator. Someone who is blind may miss their floor or not know if they chose the wrong floor.
 
-Emergency buttons are harder to reach and/or located at the bottom of the interface.
+Emergency buttons are harder to reach and/or located at the bottom of the interface. 
+EX: Someone with physical medical problems such as back problems who can't bend down during emergencies.
+
+A minor problem is emergency buttons not being covered. Since they are both low and uncovered children can play with them. 
+This can also happen on accident for many other reasons.
+
+# Part B:
+
